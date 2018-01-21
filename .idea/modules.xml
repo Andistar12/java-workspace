@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/15Puzzle/15Puzzle.iml" filepath="$PROJECT_DIR$/15Puzzle/15Puzzle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BlackJack/BlackJack.iml" filepath="$PROJECT_DIR$/BlackJack/BlackJack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GroceryList/GroceryList.iml" filepath="$PROJECT_DIR$/GroceryList/GroceryList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LWJGL Project/LWJGL Project.iml" filepath="$PROJECT_DIR$/LWJGL Project/LWJGL Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rock Paper Scissors/Rock Paper Scissors.iml" filepath="$PROJECT_DIR$/Rock Paper Scissors/Rock Paper Scissors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SECAEngine/SECAEngine.iml" filepath="$PROJECT_DIR$/SECAEngine/SECAEngine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TimesTableModulo/TimesTableModulo.iml" filepath="$PROJECT_DIR$/TimesTableModulo/TimesTableModulo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-workspace.iml" filepath="$PROJECT_DIR$/java-workspace.iml" />
+    </modules>
+  </component>
+</project>
