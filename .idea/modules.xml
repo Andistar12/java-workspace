@@ -7,7 +7,9 @@
       <module fileurl="file://$PROJECT_DIR$/GroceryList/GroceryList.iml" filepath="$PROJECT_DIR$/GroceryList/GroceryList.iml" />
       <module fileurl="file://$PROJECT_DIR$/LWJGL Project/LWJGL Project.iml" filepath="$PROJECT_DIR$/LWJGL Project/LWJGL Project.iml" />
       <module fileurl="file://$PROJECT_DIR$/Rock Paper Scissors/Rock Paper Scissors.iml" filepath="$PROJECT_DIR$/Rock Paper Scissors/Rock Paper Scissors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RoundShot/RoundShot.iml" filepath="$PROJECT_DIR$/RoundShot/RoundShot.iml" />
       <module fileurl="file://$PROJECT_DIR$/SECAEngine/SECAEngine.iml" filepath="$PROJECT_DIR$/SECAEngine/SECAEngine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpeedClick/SpeedClick.iml" filepath="$PROJECT_DIR$/SpeedClick/SpeedClick.iml" />
       <module fileurl="file://$PROJECT_DIR$/TimesTableModulo/TimesTableModulo.iml" filepath="$PROJECT_DIR$/TimesTableModulo/TimesTableModulo.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-workspace.iml" filepath="$PROJECT_DIR$/java-workspace.iml" />
     </modules>
