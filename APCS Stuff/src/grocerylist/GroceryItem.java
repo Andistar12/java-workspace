@@ -1,3 +1,5 @@
+package grocerylist;
+
 /**
  * Created by Andy Nguyen on 1/20/2018.
  * One single grocery item to be purchased

@@ -1,8 +1,10 @@
+package blackjack;
+
 import java.util.Scanner;
 
 /**
  * Created by Andy Nguyen on 1/19/2018.
- * Represents one Player, who hits/stands according to user input
+ * Represents one blackjack.Player, who hits/stands according to user input
  */
 public class Player {
 

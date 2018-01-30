@@ -1,6 +1,8 @@
+package blackjack;
+
 /**
  * Created by Andy Nguyen on 1/19/2018.
- * Represents one single Card in the deck
+ * Represents one single blackjack.Card in the deck
  */
 public class Card {
 

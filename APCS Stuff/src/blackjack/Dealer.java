@@ -1,6 +1,8 @@
+package blackjack;
+
 /**
  * Created by Andy Nguyen on 1/19/2018.
- * Represents one Player, who hits/stands according to BlackJack rules
+ * Represents one blackjack.Player, who hits/stands according to blackjack.BlackJack rules
  */
 public class Dealer {
 
@@ -11,7 +13,7 @@ public class Dealer {
 
     public Dealer() {
         hand = new Card[hand_size];
-        this.name = "Dealer";
+        this.name = "blackjack.Dealer";
     }
 
     public void addCardToHand(Card card) {

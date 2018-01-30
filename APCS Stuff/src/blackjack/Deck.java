@@ -1,8 +1,10 @@
+package blackjack;
+
 import java.util.Random;
 
 /**
  * Created by Andy Nguyen on 1/19/2018.
- * Represents one Deck of 52 Cards
+ * Represents one blackjack.Deck of 52 Cards
  */
 public class Deck {
 

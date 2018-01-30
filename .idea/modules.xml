@@ -3,8 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/15Puzzle/15Puzzle.iml" filepath="$PROJECT_DIR$/15Puzzle/15Puzzle.iml" />
-      <module fileurl="file://$PROJECT_DIR$/BlackJack/BlackJack.iml" filepath="$PROJECT_DIR$/BlackJack/BlackJack.iml" />
-      <module fileurl="file://$PROJECT_DIR$/GroceryList/GroceryList.iml" filepath="$PROJECT_DIR$/GroceryList/GroceryList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/APCS Stuff/APCS Stuff.iml" filepath="$PROJECT_DIR$/APCS Stuff/APCS Stuff.iml" />
       <module fileurl="file://$PROJECT_DIR$/LWJGL Project/LWJGL Project.iml" filepath="$PROJECT_DIR$/LWJGL Project/LWJGL Project.iml" />
       <module fileurl="file://$PROJECT_DIR$/Rock Paper Scissors/Rock Paper Scissors.iml" filepath="$PROJECT_DIR$/Rock Paper Scissors/Rock Paper Scissors.iml" />
       <module fileurl="file://$PROJECT_DIR$/RoundShot/RoundShot.iml" filepath="$PROJECT_DIR$/RoundShot/RoundShot.iml" />

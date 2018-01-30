@@ -1,3 +1,5 @@
+package grocerylist;
+
 /**
  * Created by Andy Nguyen on 1/20/2018.
  * The list of groceries to buy

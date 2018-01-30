@@ -1,3 +1,5 @@
+package grocerylist;
+
 import java.util.Scanner;
 
 /**
