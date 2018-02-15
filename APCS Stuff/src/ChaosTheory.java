@@ -15,7 +15,7 @@ public class ChaosTheory {
 
         double current = init;
         for (int i = 0; i < 50; i++) {
-            current = 2 * current * (1 - current);
+            current = scalar * current * (1 - current);
         }
 
         System.out.println("Resultant: " + current);
